@@ -1,4 +1,4 @@
-# Monitoring Traffic Lights and Predicting Future Congestion(This is simulation/real world map used by the predictor)
+# Monitoring Traffic and Predicting Future Congestion(This is simulation/real world map used by the predictor)
 
 ---
 
